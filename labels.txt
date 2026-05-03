@@ -1,0 +1,3 @@
+0 Botol Plastik
+1 Kertas
+2 Background
